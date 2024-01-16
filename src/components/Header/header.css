@@ -1,0 +1,18 @@
+.header{
+    background-color: #333745;
+    height: 5vmax;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.header img{
+    margin: 2vmax;
+    width: 2.8vmax;
+    margin-right: 1vmax;
+}
+
+.header h1{
+    font-size: 2vmax;
+}

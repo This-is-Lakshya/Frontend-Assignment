@@ -1,0 +1,29 @@
+.landingPage{
+    height: 80vh;
+    padding: 2vmax;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.createClick{
+    height: 50%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #333745;
+    border-radius: 1.5vmax;
+    padding-bottom: 1vmax;
+}
+
+.createClick h1{
+    margin-bottom: 1vmax;
+    font-size: 3vmax;
+    color: white;
+}
+
+.createClick img{
+    width: 8vmax;
+}

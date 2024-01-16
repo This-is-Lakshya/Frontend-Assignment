@@ -1,0 +1,5 @@
+.inputFieldArea input, .selectFieldArea select{
+    background-color: rgb(236, 244, 255);
+    color: rgb(77, 77, 77);
+    border: 2px solid rgb(217, 233, 255);
+}

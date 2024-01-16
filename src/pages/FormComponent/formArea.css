@@ -1,0 +1,29 @@
+.JsonInputArea textarea{
+    background-color: #333745;
+    font-size: 20px;
+    margin: 0.25vmax 0 0.25vmax 0.55vmax;
+    height: 88vh;
+    color: white;
+    border: none;
+}
+
+.formOutputArea{
+    margin:0.25vmax 0.8vmax 0.25vmax 0;
+    border: 3px solid #333745;
+    height: 88vh;
+}
+
+.JsonInputArea textarea, .formOutputArea{
+    border-radius: 1.5vmax;
+    padding: 1vmax;
+}
+
+.submitModal{
+    background-color: #333745;
+    color: white;
+    border-radius: 0 0 0.25vmax 0.25vmax;
+}
+
+.outBox{
+    background-color: white;
+}
