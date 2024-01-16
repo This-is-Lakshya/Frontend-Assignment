@@ -78,6 +78,3 @@ npm run build
 ![App Screenshot 4](https://i.postimg.cc/858F4Kwc/4.png)
 ![App Screenshot 5](https://i.postimg.cc/qqFHcYXZ/5.png)
 ![App Screenshot 6](https://i.postimg.cc/C57HWT6m/6.png)
-
-## 🔗 Links
-[![linkedin](www.linkedin.com/in/lakshya-singh-linkdin)
